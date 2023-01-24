@@ -23,10 +23,12 @@ const Login = () => {
 
     return (
         <>
-            <h1>Login</h1>
-            <input ref={loginRef} type='text' placeholder='login'></input>
-            <input ref={passwordRef} type='password' placeholder='password'></input>
-            <button onClick={login}>Zaloguj</button>
+            <div className='login'>
+                <h1>Login</h1>
+                <input ref={loginRef} type='text' placeholder='login'></input>
+                <input ref={passwordRef} type='password' placeholder='password'></input>
+                <button onClick={login}>Zaloguj</button>
+            </div>
         </>
     )
 };
