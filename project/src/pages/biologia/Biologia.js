@@ -165,12 +165,12 @@ const Biologia = () => {
                 <p>Skutki niedoboru: zmniejszona odporność, owrzodzenie dziąseł i wypadanie zębów</p>
                 <p>Występowanie: owoce cytrusowe, cytryna, pietruszka, imbir, kapusta, porzeczki</p>
                 <br/>
-                <h4>Makro pierwiastki nazywane makro elementami są to pierwiastki które występują w ilości > 0,01% suchej masy</h4>
+                <h4>Makro pierwiastki nazywane makro elementami są to pierwiastki które występują w ilości większa od 0,01% suchej masy</h4>
                 <p>pierwiastki biogenne:</p>
                 <li>C,O,H,N,S,P</li>
                 <p>inne:</p>
                 <li>Ca, Mg, K, Na, Cl, HCl</li>
-                <h4>Mikro pierwiastki nazywane mikro elementami są to pierwiastki które występują w ilości > 0,001% suchej masy</h4>
+                <h4>Mikro pierwiastki nazywane mikro elementami są to pierwiastki które występują w ilości większa od 0,001% suchej masy</h4>
                 <p>Fe → anemia, F → szkliwo, J → tarczyca produkuje hormony</p>
                 <h4>Znaczenie wody</h4>
                 <p>Woda jest jednym z najważniejszych składników budulcowych organizmu człowieka</p>
