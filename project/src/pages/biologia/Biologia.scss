@@ -14,7 +14,43 @@ body {
         color: white;
     }
 
-    p {
-        color: #00796b;
+    h2 {
+        color: cyan;
     }
+    
+    h3 {
+        color: #00bfa5;
+    }
+
+    h4 {
+        color: #b2dfdb;
+    }
+
+    p {
+        margin-left: 450px;
+        align-items: center;
+        border: 2px solid black;
+        border-radius: 5px;
+        color: #00796b;
+        width: 50%;
+        padding: 5px;
+    }
+
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        align-items: center;
+        margin-left: 450px;
+        width: 50%;
+      }
+      
+      td, th {
+        border: 1px solid black;
+        text-align: left;
+        padding: 8px;
+      }
+      
+      tr:nth-child(even) {
+        background-color: #ba68c8;
+      }
 }
