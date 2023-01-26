@@ -8,7 +8,7 @@ const Login = () => {
     const passwordRef = React.createRef();
     const navigate = useNavigate();
 
-    const name = 'MagdaTehnischools'
+    const name = 'MagdaTechnischools'
     const password = 'Technischools'
 
 

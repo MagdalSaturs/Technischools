@@ -22,6 +22,7 @@ const Biologia = () => {
                     aminokwasów. Na przykład pełen zestaw aminokwasów daje połączenie ryżu z fasolą po meksykańsku
                     czy pełnoziarnistej pszenne bułki z sezamem i masłem orzechowym
                 </p>
+                <img src='https://0701.static.prezi.com/preview/v2/2p2utnwi3ninpnnwc6jyajd2nh6jc3sachvcdoaizecfr3dnitcq_3_0.png' alt='Białka' />
                 <h2>Cukry</h2>
                 <p>Cukry - główne źródło energii</p>
                 <p>Cukry (węglowodany) to związki,  których podstawową funkcją jest dostarczanie organizmowi energii</p>
@@ -34,6 +35,7 @@ const Biologia = () => {
                     Występują głównie w słodyczach i nabiale</p>
                 <p>Wielocukry (polisacharydy) - to cukry złożone z wielu cząsteczek cukrów prostych, np.. Skrobia. Znajdują się m.in.
                     w produktach zbożowych, kaszach i makaronach</p>
+                <img src='https://motywator.tv/wp-content/uploads/2020/08/PODZIA%C5%81-W%C4%98GLOWODAN%C3%93W-819x1024.png' alt='Cukry' />
                 <h2>Tłuszcze</h2>
                 <p>Tłuszcze - materiały zapasowe</p>
                 <p>Tłuszcze to przede wszystkim materiały zapasowe dostarczające energii, gdy zabraknie cukrów</p>
@@ -57,6 +59,7 @@ const Biologia = () => {
                 <li>rodzaj pożywienia</li>
                 <li>temperatura otoczenia</li>
                 <li>aktywność fizyczna</li>
+                <img src='https://static.zpe.gov.pl/portal/f/res-minimized/RBOUFvmv88SKu/3/1ODrVDMGRZneWBFCHNuwwtaldnR0DXdN.png' alt='tłuszcze' width='50%' />
                 <h1>Rola i funkcje witamin</h1>
                 <h2>Co to są witamin i jak działają?</h2>
                 <p>Witaminy - związki organiczne, niezbędne dla człowieka, ale których ludzki organizm nie potrafi sam wytwarzać.
@@ -97,6 +100,14 @@ const Biologia = () => {
                         <td>Zaburzenia krzepnięcia krwi, skłonność do krwawień</td>
                     </tr>
                 </table>
+                <h3>A:</h3>
+                <img src='https://www.wapteka.pl/blog_zdjecia/witamina-a-wlasciwosci-i-zrodla-co-moze-powodowac-niedobor-lub-nadmiar-witaminy-a.jpg' alt='witamina-a' width='50%' />
+                <h3>D:</h3>
+                <img src='https://www.bcaa.pl/pf/72/1333-a.jpg' alt='witamina-d' width='50%' />
+                <h3>E:</h3>
+                <img src='https://www.bestbody.com.pl/blog/wp-content/uploads/2020/01/Witamina-E-1024x664.jpg' alt='witamina-e' width='50%' />
+                <h3>K:</h3>
+                <img src='https://diag1.fra1.digitaloceanspaces.com/wp-content/uploads/sites/5/2022/05/13105920/Witamina-K-jakie-ma-znaczenie-dla-organizmu-Skutki-niedoboru-560x534.jpg' alt='witamina-k' width='50%' />
                 <h3>Do czego nam służą witaminy co sie dzieje gdy mamy ich za mało?</h3>
                 <table>
                     <tr>
@@ -132,6 +143,16 @@ const Biologia = () => {
                         <td></td>
                     </tr>
                 </table>
+                <h3>B1:</h3>
+                <img src='https://www.wapteka.pl/blog_zdjecia/witamina-b1-tiamina-do-czego-jest-potrzebna-jakie-sa-objawy-niedoboru-i-nadmiaru-witaminy-b1.jpg' alt='witamina-b1' width='50%' />
+                <h3>B2:</h3>
+                <img src='https://zdrowie.tvn.pl/media/cache/content/witamina-b2-jpg.jpg' alt='witamina-b2' width='50%'/>
+                <h3>B3:</h3>
+                <img src='https://ktomalek.pl/blog/zdjecie/niacyna.jpg' alt='witamina-b3' width='50%' />
+                <h3>B6:</h3>
+                <img src='https://ktomalek.pl/blog/zdjecie/najlepsze-zrodla-witaminy-b6-ktomalek.jpg' alt='witamina-b6' width='50%' />
+                <h3>B9:</h3>
+                <img src='https://d33wubrfki0l68.cloudfront.net/7acd33a9256852657224198360e30c23736c6a14/5f327/static/3f3b2f09c5b0b42a15588763a66670a4/9bd22/kwas-foliowy.jpg' alt='witamina-b9' width='50%' />
                 <h3>Do czego nam służy witamina C? Co się dzieje gdy mamy jej za mało? Gdzie ją znaleźć?</h3>
                 <table>
                     <tr>
@@ -145,6 +166,8 @@ const Biologia = () => {
                         <td>Zmniejszona odporność, szkorbut (wypadanie zębów, owrzodzenie dziąseł, kruchość naczyń i niedokrwistość)</td>
                     </tr>
                 </table>
+                <h3>C:</h3>
+                <img src='https://gazetamedycyna.pl/wp-content/uploads/2019/11/Witamina-C-lewoskr%C4%99tna.jpg' alt='witamina-c' width='50%' />
                 <h3>Źródła witamin z grupy “ADEK”</h3>
                 <p>A → Papryka, marchewka, pomidor, truskawka</p>
                 <p>D → Ryba, ser, jajko, masło</p>
@@ -188,6 +211,75 @@ const Biologia = () => {
                 <p>rzadkie oddawanie moczu</p>
                 <p>i wiele innych</p>
                 <h1>Układ pokarmowy i jego funkcje</h1>
+                <img src='http://zdrowie.med.pl/wp-content/uploads/2020/09/Anatomia-i-fizjologia-uk%C5%82adu-trawiennego.png' alt='układ pokarmowy'/>
+                <h2>W jamie ustnej</h2>
+                <p>rozdrabniamy pokarm</p>
+                <p>trawienie wielocukrów</p>
+                <p>gardło to połączenie ( oddechowy i pokarmowy )</p>
+                <h3>przełyk jest umięśniony</h3>
+                <p>mięśnie gładkie nie zależne od naszej woli</p>
+                <h2>W żołądku</h2>
+                <p>pokarm jest mieszany i rozdrabnianie</p>
+                <h2>Sok żołądkowy zawiera</h2>
+                <p>kwas solny  (zabija bakterie)</p>
+                <p>enzymy trawinę (początek trawienia białek)</p>
+                <h2>W jelicie cienkim  6 m długości</h2>
+                <p>dwunastnica początek jelita cienkiego</p>
+                <p>wątroba i trzustka wydzielają</p>
+                <li>sok trzustkowy</li>
+                <li>żółć z wątroby</li>
+                <li>pęcherzyk żółciowy go zagęszcza i wypuszcza</li>
+                <p>ostateczne trawienie i wchłanianie pokarmu</p>
+                <p>kosmki jelitowe - zwiększają powierzchnię chłonną jelita  do 250 m^2</p>
+                <li>niewielkie palczaste wypustki błony</li>
+                <p>naczynia limfatyczne </p>
+                <li>pobierają tłuszcze</li>
+                <p>naczynia krwionośne </p>
+                <li>pobierają reszta pokarmu</li>
+                <p>gastroskopia</p>
+                <h2>W jelicie grubym</h2>
+                <p>kolagoskopia</p>
+                <p>wchłanianie wody , witamin</p>
+                <p>nie trawimy błonnika</p>
+                <p>ponad 400 gatunków bakterii</p>
+                <p>200 g kału dziennie</p>
+                <p>ok. 6000 kg kału w ciągu życia</p>
+                <p>zagęszczenie</p>
+                <p>formowanie kału</p>
+                <h2>W odbytnicy</h2>
+                <p>defekacja - wydalanie kału</p>
+                <br/>
+                <p>amylaza -  enzym który rozkłada cukry</p>
+                <h2>Cukry</h2>
+                <p>jama ustna - amylaza ślinowa</p>
+                <li>zaczyna rozkładać na mniejsze cząsteczki</li>
+                <p>dwunastnica - sok trzustkowy ( amylaza trzustkowa ) → dwucukry ( maltoza ) → glukoza</p>
+                <li>początek jelita cienkiego </li>
+                <p>jelito cienkie - amylaza jelitowa → glukoza</p>
+                <h2>Białka</h2>
+                <p>Pobieramy białka</p>
+                <p>przelatują aż do żołądka</p>
+                <p>żołądek - pepsyna → mniejsze polipeptydy</p>
+                <p>dwunastnica sok trzustkowy ( trypsyna i chymotrypsyna ) → jeszcze mniejsze polipeptydy ( dwupeptydy )</p>
+                <p>jelito cienkie - peptydazy jelitowe → aminokwasy → wchłaniany przed układ krwionośny</p>
+                <h2>Tłuszcze</h2>
+                <p>ma swój udział wątroba</p>
+                <p>elementy które budują tłuszcze</p>
+                <li>glicerol</li>
+                <li>kwasy tłuszczowe (nasycone i nie nasycone )</li>
+                <h2>Tłuszcz</h2>
+                <p>dwunastnica - wątroba (żółć → emulgacja tłuszczy  (tak jak płyn do naczyń na tłustą patelnie ))</p>
+                <p>elito cienkie - sok trzustkowy ( lipaza trzustkowa i  jelitowa ) → glicerol → kwasy tłuszczowe → wchłaniane są do układu limfatycznego</p>
+                <p>Trzustka jest gruczołem hormonalnym reguluje poziom cukru we krwi</p>
+                <h2>Funkcje wątroby</h2>
+                <p>produkuje żółć, która wspomaga trawienie tłuszczy</p>
+                <p>magazynuje glikogen</p>
+                <p>magazynuje witaminy rozpuszczalne w tłuszczach (ADEK)</p>
+                <p>przekształca amoniak w mocznik</p>
+                <p>neutralizuje związki niebezpieczne dla naszego organizmu</p>
+                <h2>Zasady racjonalnego żywienia</h2>
+                <p>piramida żywienia</p>
+                <img src='https://optymalnewybory.pl/wp-content/uploads/piramida-zdrowego-%C5%BCywienia.jpg' alt='Piramida zdrowego żywienia' />
                 <h1>Ciąg dalszy układu pokarmowego i jego funkcji</h1>
                 <h2>Enzymy:</h2>
                 <h3>Cukry:</h3>
@@ -245,7 +337,7 @@ const Biologia = () => {
                 <p>utrzymanie prawidłowego pH</p>
                 <h2>Ochronna</h2>
                 <p>ciągłość naczyń krwionośnych</p>
-                <p>krew -> strupek</p>
+                <p>krew → strupek</p>
                 <p>Hemofilia - brak krzepliwości krwi</p>
                 <h2>Odporność - leucyty białe ciałka krwi</h2>
                 <h2>Budowa krwi</h2>
@@ -298,6 +390,75 @@ const Biologia = () => {
                 <li>niewłaściwe odżywianie</li>
                 <p>Droga zakażenia: do zakażenia bakterią Helicobacter pylori dochodzi drogą pokarmoą</p>
                 <p>Profilaktyka: polega na unikanie stresu, nadmiernego przyjmowania leków przeciwbólowych i przeciwzapalnych oraz niepaleniu papierosów</p>
+                <h2>Salmonelloza (bakteryjne)</h2>
+                <p>Przyczyna: zakażenie bakterią z rodzaju Salmonella</p>
+                <p>Droga zakażenia: droga pokarmowa</p>
+                <p>Profilaktyka: właściwe przechowywanie i przyrządzanie produktów spożywczych</p>
+                <h2>Inne choroby:</h2>
+                <p>rak trzustki</p>
+                <p>rak żołądka</p>
+                <p>rak jelita grubego</p>
+                <p>nadwrażliwość jelita grubego</p>
+                <h2>Objawy</h2>
+                <p>wzdęcia</p>
+                <p>biegunka</p>
+                <p>utrata masy ciała</p>
+                <p>niedokrwistość</p>
+                <p>ból brzucha</p>
+                <p>krew w stolcu</p>
+                <p>wymioty</p>
+                <p>stan zapalny</p>
+                <p>brak apetytu</p>
+                <p>ból i zgaga</p>
+                <h2>Absorbcja czyli wchłanianie</h2>
+                <p>nerki</p>
+                <p>jelito cienkie</p>
+                <p>jelito grube</p>
+                <h2>Zagadnienia na sprawdzian</h2>
+                <p>cukry , białka cukry</p>
+                <li>budowa</li>
+                <li>funkcje (białka !!! )</li>
+                <li><p>hemoglobina</p></li>
+                <li><p>miozyna</p></li>
+                <li><p>aktyna</p></li>
+                <li><p>kolagen</p></li>
+                <li><p>mioglobina w mięśniach</p></li>
+                <li>występowanie</li>
+                <p>witaminy podstawowe A, K , C grupa B</p>
+                <p>mikro elementy i makro elementy biogenne</p>
+                <li>związki chemiczne i pierwiastki</li>
+                <li>żelazo</li>
+                <li>fluor</li>
+                <li>wapń</li>
+                <p>związki organiczne</p>
+                <li>białka</li>
+                <li>tłuszcze</li>
+                <li>kwasy nukleinowe</li>
+                <p>Znaczenie wody</p>
+                <p>Budowa układu pokarmowego</p>
+                <li>jama ustna</li>
+                <li>gardło</li>
+                <li>przełyk</li>
+                <li>nie dotykają pokarmo</li>
+                <li>gruczoły trawione:</li>
+                <li>ślinianki</li>
+                <li>wątroba</li>
+                <li>trzustka</li>
+                <br/>
+                <p>człowiek dorosły ma 32 zęby (podział)</p>
+                <p>zęby mleczne 20</p>
+                <p>jama ustna - rozdrabnianie pokarmu itd. cukry</p>
+                <p>gardło - oddechowy i pokarmowy układ</p>
+                <p>żołądek - białka</p>
+                <p>jelito cienkie - tłuszcze , białka , cukry</p>
+                <li>wchłanianie wody</li>
+                <p>kosmki jelitowe - zwiększają powierzchne chłonną</p>
+                <p>zasady racjonalnego żywienia</p>
+                <li>piramida</li>
+                <li>anorekcja</li>
+                <li>bulimia</li>
+                <p>Choroby</p>
+                <h2>Cukrzyca</h2>
             </div>
         </>
     )
