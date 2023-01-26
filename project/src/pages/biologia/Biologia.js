@@ -272,32 +272,32 @@ const Biologia = () => {
                 <p>owsik ludzki</p>
                 <h2>Choroby wirusowe</h2>
                 <p>WZW A</p>
-    <li>Przyczyna: zakażenie zapalenie wątroby</li>
-    <li>drogami pokarmowymi</li>
-    <li>Profilaktyka: przestrzeganie zasad higieny, szczepienia ochronne</li>
-    <p>WZW B</p>
-    <li>Przyczyny: zakażenie wirusem zapalenia wątroby typu B (HBV)</li>
-    <li>Drogi zakażenia : przez krew, drogą płciową</li>
-    <li>Profilaktyka: unikanie kontaktu z krwią osób zakażonych, bezpieczne zachowania seksualne, szczepienia ochronne</li>
-    <p>WZW C</p>
-    <li>Przyczyna: zakażenie wirusem zapalenia wątroby typu C (HCV)</li>
-    <li>Drogi zakażenia : przez krew, drogą płciową</li>
-    <li>najgorsza</li>
-    <li>wykańcza wątrobę (marskość wątroby)</li>
-    <li>Profilaktyka: unikanie kontaktu z krwią osób zakażonych, bezpieczne zachowania seksualne, szczepienia ochronne</li>
-    <h2>Choroby bakteryjne</h2>
-    <p>Próchnica</p>
-    <li>Przyczyna: bakterie występujące na powierzchni zębów i rozkładające cukry</li>
-    <li>Droga zakażenia: bakterie powodujące próchnicę naturalnie występują w naszej jamie ustnej</li>
-    <li>Profilaktyka: dieta bogata w wapń, fosfor, fluor i witaminę D3, ograniczenie spożycia cukrów, mycie zębów , kontrolne wizyty u stomatologa co najmniej dwa razy w roku</li>
-    <h2>Choroba wrzodowa żołądka i dwunastnicy (bakteryjne)</h2>
-    <p>Przyczyna: głównie zakażenie bakterią Helicobacter pylori. Na rozwój choroby mają wpływ także czynniki jak :</p>
-    <li>palenie papierosów</li>
-    <li>stosowanie leków przeciwzapalnych i przeciwbólowych</li>
-    <li>stres</li>
-    <li>niewłaściwe odżywianie</li>
-    <p>Droga zakażenia: do zakażenia bakterią Helicobacter pylori dochodzi drogą pokarmoą</p>
-    <p>Profilaktyka: polega na unikanie stresu, nadmiernego przyjmowania leków przeciwbólowych i przeciwzapalnych oraz niepaleniu papierosów</p>
+                <li>Przyczyna: zakażenie zapalenie wątroby</li>
+                <li>drogami pokarmowymi</li>
+                <li>Profilaktyka: przestrzeganie zasad higieny, szczepienia ochronne</li>
+                <p>WZW B</p>
+                <li>Przyczyny: zakażenie wirusem zapalenia wątroby typu B (HBV)</li>
+                <li>Drogi zakażenia : przez krew, drogą płciową</li>
+                <li>Profilaktyka: unikanie kontaktu z krwią osób zakażonych, bezpieczne zachowania seksualne, szczepienia ochronne</li>
+                <p>WZW C</p>
+                <li>Przyczyna: zakażenie wirusem zapalenia wątroby typu C (HCV)</li>
+                <li>Drogi zakażenia : przez krew, drogą płciową</li>
+                <li>najgorsza</li>
+                <li>wykańcza wątrobę (marskość wątroby)</li>
+                <li>Profilaktyka: unikanie kontaktu z krwią osób zakażonych, bezpieczne zachowania seksualne, szczepienia ochronne</li>
+                <h2>Choroby bakteryjne</h2>
+                <p>Próchnica</p>
+                <li>Przyczyna: bakterie występujące na powierzchni zębów i rozkładające cukry</li>
+                <li>Droga zakażenia: bakterie powodujące próchnicę naturalnie występują w naszej jamie ustnej</li>
+                <li>Profilaktyka: dieta bogata w wapń, fosfor, fluor i witaminę D3, ograniczenie spożycia cukrów, mycie zębów , kontrolne wizyty u stomatologa co najmniej dwa razy w roku</li>
+                <h2>Choroba wrzodowa żołądka i dwunastnicy (bakteryjne)</h2>
+                <p>Przyczyna: głównie zakażenie bakterią Helicobacter pylori. Na rozwój choroby mają wpływ także czynniki jak :</p>
+                <li>palenie papierosów</li>
+                <li>stosowanie leków przeciwzapalnych i przeciwbólowych</li>
+                <li>stres</li>
+                <li>niewłaściwe odżywianie</li>
+                <p>Droga zakażenia: do zakażenia bakterią Helicobacter pylori dochodzi drogą pokarmoą</p>
+                <p>Profilaktyka: polega na unikanie stresu, nadmiernego przyjmowania leków przeciwbólowych i przeciwzapalnych oraz niepaleniu papierosów</p>
             </div>
         </>
     )
