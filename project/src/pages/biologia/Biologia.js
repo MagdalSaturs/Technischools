@@ -231,6 +231,73 @@ const Biologia = () => {
                         <td>otyłość</td>
                     </tr>
                 </table>
+                <h1>Funkcje układu krwionośnego</h1>
+                <h2>Transport po organizmie</h2>
+                <p>tlen</p>
+                <p>składniki odżywcze</p>
+                <p>witaminy</p>
+                <p>hormony</p>
+                <p>pierwiastki</p>
+                <p>przenosi dwutlenek węgla do płuc</p>
+                <p>szkodliwe przemiany materii do nerek</p>
+                <h2>Regulacja</h2>
+                <p>utrzymanie stałej temperatury ciała</p>
+                <p>utrzymanie prawidłowego pH</p>
+                <h2>Ochronna</h2>
+                <p>ciągłość naczyń krwionośnych</p>
+                <p>krew -> strupek</p>
+                <p>Hemofilia - brak krzepliwości krwi</p>
+                <h2>Odporność - leucyty białe ciałka krwi</h2>
+                <h2>Budowa krwi</h2>
+                <p>osocze 55% substancja między komórkowe</p>
+                <p>45%</p>
+                <li>erykocyty 4-6 mln/ mm^3 krwi bez jądra</li>
+                <li>leukocyty 4-10 tys. w mm^3 krwi z jądrem i są największe</li>
+                <li>trombocyty 150 - 450 tys. / mm^3 krwi</li>
+                <p>białe krwinki - zżerają obce ciało w naszym organizmie</p>
+                <p>czerwone krwinki - transportują tlen</p>
+                <br/>
+                <p>Krew to tkanka łączna</p>
+                <h1>Choroby układu pokarmowego</h1>
+                <h2>Krew w kale wiąże się z rakiem jelita grubego</h2>
+                <p>skraca się jelito</p>
+                <h2>Endoskopowe badania</h2>
+                <p>gastroskopia - od góry</p>
+                <p>kolonoskopia - od tyłu</p>
+                <h2>USG jamy brzusznej</h2>
+                <h2>Pasożyty powodujące choroby</h2>
+                <p>tasiemce</p>
+                <p>glista ludzka</p>
+                <p>włosień kręty</p>
+                <p>owsik ludzki</p>
+                <h2>Choroby wirusowe</h2>
+                <p>WZW A</p>
+    <li>Przyczyna: zakażenie zapalenie wątroby</li>
+    <li>drogami pokarmowymi</li>
+    <li>Profilaktyka: przestrzeganie zasad higieny, szczepienia ochronne</li>
+    <p>WZW B</p>
+    <li>Przyczyny: zakażenie wirusem zapalenia wątroby typu B (HBV)</li>
+    <li>Drogi zakażenia : przez krew, drogą płciową</li>
+    <li>Profilaktyka: unikanie kontaktu z krwią osób zakażonych, bezpieczne zachowania seksualne, szczepienia ochronne</li>
+    <p>WZW C</p>
+    <li>Przyczyna: zakażenie wirusem zapalenia wątroby typu C (HCV)</li>
+    <li>Drogi zakażenia : przez krew, drogą płciową</li>
+    <li>najgorsza</li>
+    <li>wykańcza wątrobę (marskość wątroby)</li>
+    <li>Profilaktyka: unikanie kontaktu z krwią osób zakażonych, bezpieczne zachowania seksualne, szczepienia ochronne</li>
+    <h2>Choroby bakteryjne</h2>
+    <p>Próchnica</p>
+    <li>Przyczyna: bakterie występujące na powierzchni zębów i rozkładające cukry</li>
+    <li>Droga zakażenia: bakterie powodujące próchnicę naturalnie występują w naszej jamie ustnej</li>
+    <li>Profilaktyka: dieta bogata w wapń, fosfor, fluor i witaminę D3, ograniczenie spożycia cukrów, mycie zębów , kontrolne wizyty u stomatologa co najmniej dwa razy w roku</li>
+    <h2>Choroba wrzodowa żołądka i dwunastnicy (bakteryjne)</h2>
+    <p>Przyczyna: głównie zakażenie bakterią Helicobacter pylori. Na rozwój choroby mają wpływ także czynniki jak :</p>
+    <li>palenie papierosów</li>
+    <li>stosowanie leków przeciwzapalnych i przeciwbólowych</li>
+    <li>stres</li>
+    <li>niewłaściwe odżywianie</li>
+    <p>Droga zakażenia: do zakażenia bakterią Helicobacter pylori dochodzi drogą pokarmoą</p>
+    <p>Profilaktyka: polega na unikanie stresu, nadmiernego przyjmowania leków przeciwbólowych i przeciwzapalnych oraz niepaleniu papierosów</p>
             </div>
         </>
     )
