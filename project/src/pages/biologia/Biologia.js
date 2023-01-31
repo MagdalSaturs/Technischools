@@ -1,12 +1,14 @@
 import React from 'react';
 import './Biologia.scss';
-// import { useNavigate } from 'react-router-dom';
+import { useNavigate } from 'react-router-dom';
 // import axios from 'axios';
 
 const Biologia = () => {
+    const navigate = useNavigate();
 
     return (
         <>
+            <button className='back-button' onClick={() => navigate('/listOfSubjects')}>Powrót</button>
             <div className='Skladniki-pokarmowe'>
                 <h1>Składniki pokarmowe</h1>
                 <h2>Białka</h2>

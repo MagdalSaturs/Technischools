@@ -17,7 +17,7 @@ const Login = () => {
         const password1 = passwordRef.current.value
 
         if (login === name && password1 === password) {
-            navigate('/biologia')
+            navigate('/ListOfSubjects')
         }
     };
 

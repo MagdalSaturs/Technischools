@@ -1,6 +1,6 @@
 import './App.scss';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import { Biologia, Login } from './pages';
+import { Biologia, Login, ListOfSubjects, Chemia } from './pages';
 
 function App() {
   return (
@@ -9,6 +9,8 @@ function App() {
         <Routes>
           <Route path='*' element={<Login />} />
           <Route path='/biologia' element={<Biologia />} />
+          <Route path='/listOfSubjects' element={<ListOfSubjects />} />
+          <Route path='/chemia' element={<Chemia />} />
         </Routes>
       </BrowserRouter>
     </div>
