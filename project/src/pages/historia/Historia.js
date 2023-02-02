@@ -29,6 +29,7 @@ const Historia = () => {
         <p>gentry, mieszczanie i chłopi</p>
         <br />
         <p>Oliver Cromwell → przywódca armii parlamentarnej</p>
+        <img src="https://www.rmg.co.uk/sites/default/files/styles/max_width_1440/public/BHC2638.jpg?itok=1q6jIX6t" alt="Oliver Cromwell" width="25%" />
         <p>1645r. - bitwa pod Naseby (zwycięstwo: Oliver Cromwell)</p>
         <p>30 stycznia 1649 roku - ścięcie Karola I Stuarta</p>
         <p>Oliver Cromwell → taki jakby dyktator</p>
@@ -65,6 +66,7 @@ const Historia = () => {
           Anglii, Holandii, Szwecji oraz katolicka Francja - która dążyła do
           osłabienia Habsburgów
         </li>
+        <img src="https://historia.org.pl/wp-content/uploads/2009/11/Map_Thirty_Years_War-pl.svg_-463x600.png" alt="unia protestancka" width="25%" />
         <li>
           Liga Katolicka - niemieccy katolicy oraz hiszpańscy Habsburgowie
         </li>
@@ -89,6 +91,7 @@ const Historia = () => {
         <p>Fernydand II Habsburg → zdetronizowany</p>
         <p>Fryderyk V Wittelsbach “król ziomowy”</p>
         <p>Wojna trzydziestoletnia - etap czeski (1618-1624)</p>
+        <img src="https://assets.puzzlefactory.pl/puzzle/291/112/original.jpg" alt="wojna trzydziestoletnia" width="50%" />
         <li>1620r. bitwa pod białą górą</li>
         <li>prześladowania protestantów</li>
         <li>kary śmierci dla buntowników;</li>
@@ -133,6 +136,7 @@ const Historia = () => {
         <li>powołał urząd INTENDENTA</li>
         <li>zmodernizował armię francuską</li>
         <p>Król Henryk IV wraz z Marią i dziećmi</p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Fouquet_et_henri_IV.jpg/220px-Fouquet_et_henri_IV.jpg" alt="Henryk IV" width="25%" />
         <p>
           Regencja - zastępcze wykonywanie władzy monarszej przez upoważnioną do
           tego osobę w czasie, kiedy panujący sam władzy swojej sprawować nie
@@ -226,6 +230,7 @@ const Historia = () => {
           nawracania innowierców
         </li>
         <li>przepych i bogactwo form</li>
+        <img src="https://architrav.pl/wp-content/uploads/2018/02/cechy-charakterystyczne-baroku-2593x2247.jpg" alt="cechy charakterystyczne baroku" width="50%" />
         <p>Barok - architektura sakralna</p>
         <li>Kościół IL Gesu w Rzymie</li>
         <li>Plafon</li>
@@ -256,6 +261,72 @@ const Historia = () => {
         <p>Na muzykę barokową miały wpływ:</p>
         <li>kontrreformacja</li>
         <li>potęga arystokracji i włoskiego mieszczaństwa</li>
+        <img src="https://i.ytimg.com/vi/dbL37n_fkjM/sddefault.jpg" alt="początki rządów Wazów w rzeszpospolitej" width="50%" />
+        <h1>Początki rządów Wazów w rzeczpospolitej</h1>
+        <h3>Podwójna elekcja</h3>
+        <p>Po śmierci Stefana Batorego → przygotowania do trzeciej wolnej elekcji</p>
+        <p>Arcyksiążę Maksymilian III → popierany przez duchowieństwo, magnaterię i nie tylko</p>
+        <p>Przeciwnicy Maksymiliana III obawiali się wzmocnienia władzy królewskiej (Habsburgowie słynęli z rządów silnej ręki)</p>
+        <p>Zygmunt Waza → syn szwedzkiego króla i polskiej książniczki z dynastii Jagiellonów. Zyskał poparcie zwolenników koncepcji osadzenia na tronie “Piasta”</p>
+        <p>Zygmunt wyznawał katolicyzm i słynął z pobożności, a jego wybór popierała ciota, królowa0wdowa Anna Jagiellonka.</p>
+        <p>Sejm elekcyjny odbył się w 1587r. Zarówno zwolennicy Habsburga, jak i Wazy sprowadzili na obrady sejmu oddziały elekcji i żaden z elektów nie zamierzał zrezygnować z tronu Rzeczpospolitej</p>
+        <p>W 1588r. na Śląsku rozległa się bitwa pod Byczyną, w której oddziały koronne pod dowództwem Jana Zamojskiego zwyciężyły wojska Maksymiliana III.</p> 
+        <p>Maksymilian III musiał zrzec się pretensji do tronu polskiego</p>
+        <h3>Początki Panowania Zygmunta III Wazy</h3>
+        <p>Pierwsze lata rządów Zygmunta III Wazy upłynęły pod znakiem konfliktu z Janem Zamojskim</p>
+        <p>Zygmunt III dążył do porozumienia z Habsburgami</p>
+        <h3>Wojna ze Szwecją</h3>
+        <p>1605 - rozejm</p>
+        <p>1617-1618 - Gustaw II Adolf atakuje Inflanty, brak sukcesu, rozejm</p>
+        <h3>1621-1622 - ponowny atak, zajęcie Rygi, szlachta nie chce nowych podatków na wojsko; rozejm</h3>
+        <h3>1622 - zajęcie Inflant przez Szwecję; przeniesienie wojny do Prus Królewskich</h3>
+        <p>1626 - Szwecja prowadzi blokadę handlu wiślanego, zajmuje miasta pruskie</p>
+        <h3>1627 - próba przejścia przez Wisłę przez Szwecję, bitwa pod Tczewem</h3>
+        <p>Ranienie GA; snajper</p>
+        <p>1629 - Trzciana, MSZ Francji dąży do rozejmu PL-Szw. (Szewcja jako sojusznik w wojnie trzydziestoletniej)</p>
+        <p>16.09.1629 - rozejm w Altmarku</p>
+        <p>Szwecja zajmuje Inflanty i porty pruskie (bez Gdańska, Pucka, Królewca)</p>
+        <p>3,5% cła z towarów z Gdańska dla Szwecji</p>
+        <p>1635 - WIVW, reforma wojska; Szwecja zmęczona wojną trzydziestoletnią</p>
+        <p>12.09.1635 - rozejm w Sztumskiej Wsi</p>
+        <p>Szwecja zajmuje Inflanty, rezygnuje z portów pruskich i cła z Gdańska</p>
+        <p>Brak regulacji pretensji Wazów do tronu Szwecji</p>
+        <p>(mapa, str.165)</p>
+        <h3>Wojny Polski z Rosją</h3>
+        <h3>Kryzys w Rosji</h3>
+        <p>1584 - śmierć Iwana Groźnego</p>
+        <p>1584 - tron obejmuje trzeci syn - Diodor</p>
+        <p>(1581 - kłótnia, śmierć Iwana)</p>
+        <p>Fiodor nieudolny, zajmuje się głównie religią</p>
+        <p>Realna władza Borysa Godunowa (doradca Iwana Groźnego)</p>
+        <p>Zesłanie Dymitra (najmłodszy syn) do Uglicza, śmierć podczas piłki</p>
+        <p>Wielka smuta 1598-1613</p>
+        <h3>Dymitr Samozwaniec</h3>
+        <p>1602 - Jerzy Mniszech popiera Dymitra Samozwańca</p>
+        <p>Grigorij Otriepiew</p>
+        <p>Ślub z Maryną, w zamian Mniszech otrzyma dobra w Rosji</p>
+        <p>Dymitr przechodzi na katolicyzm i obiecuje unię cerkwi z katolikami = poparcie króla i jezuitów</p>
+        <h3>Dymitriady</h3>
+        <p>1604 - Dymitr rusza do Rosji, poparcie w Rosji rośnie</p>
+        <p>Naturalna śmierć Godunowa</p>
+        <p>1605 - koronacja Dymitra na cara</p>
+        <p>1606 - ślub z Maryną</p>
+        <p>1607 - do PL przybywa DIIS</p>
+        <p>Poparcie PL - wojna jako łupy</p>
+        <p>Wyprawa na Rosję; brak zajęcia Moskwy</p>
+        <p>Do Rosji wkraczają lisowczycy</p>
+        <p>1608-1610 - dwuwładza w Rosji</p>
+        <p>DIIS w Tuszynie, Szujski w Moskwie</p>
+        <h3>Wojna z Moskwą</h3>
+        <p>Pertraktacje Szujskiego z PL nieudane;</p>
+        <p>widmo wojny</p>
+        <p>1609 - sojusz Ros-Szw vs. PL</p>
+        <p>1609 - atak Stanisława Żołkierwskiego na Smoleńsko; zdobyty w 1611</p>
+        <p>1610 - porozumienie z bojarami - po zwycięstwie carem ma zostać XIVX;</p>
+        <p>przyjęcie prawosławia</p>
+        <p>1610 - Szujski prowadzi odsiecz dla Smoleńska</p>
+        <p>1612 - kapitulacja PL w Moskwie</p>
+        <p>1620 - polska interwencja w Mołdawii</p>
       </div>
     </>
   );
